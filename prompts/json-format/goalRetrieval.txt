@@ -1,0 +1,16 @@
+"""Given the next unstructured input text, please analyze the syntax and semantics, extract the relevant information, and identify patterns and relationships. Your task is to extract the main goal implied by the user in their input, along with the main obstacle that the user faces in achieving that goal. 
+
+An obstacle should be identified as a challenge or barrier the user perceives in their journey toward the goal, not merely as issues present in the input text. Fill the given JSON template; no other text or order is allowed.
+
+{{
+    "input": "{input}"
+    "analysis": {{
+        "syntax": _______,
+        "semantics": [___, ___, ___],
+        "relevant_information": [___, ___, ___],
+        "patterns_relationships": [___, ___, ___],
+    }},
+
+    "goal": "The main goal is _______",
+    "obstacle": "The identified obstacle is _______ due to _______",
+}}"""

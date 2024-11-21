@@ -1,0 +1,20 @@
+'**According to the next unstructured input text, we have a main goal to accomplish and some relevant information that might help to do so. Generate a series of steps that you need to take to give an answer. Each step needs to be independant of the others and be labeled as:
+[recall-episodic-memory] whenever you think that there might be a previous interaction that contains information about the topic
+[recall-working-memory] whenever you think that there might be a memory on how to accomplish a certain task
+[external-source] whenever you think that you need external information about a specific topic
+[ask-information] whenever you think that you need more information as input to be able to provide a good answer
+
+The steps need to be filled in the given template, no other text or order is allowed.
+**
+
+**[input]:** Could you please suggest a very robust idea on how to convince a client my option is the best one with a 99% rate of chances of convincing 
+
+**[goal]:** The main goal is to find a reliable method to convincingly sell one's option to a client with a high success rate.
+
+**[relevant-information]:**
+    [rel] The goal is to convince a client, implying a sales or business context.
+    [rel] The desired outcome is a high success rate (99%), indicating a high level of confidence and competitiveness.
+
+**[steps]:**
+    1. [label] _______________________________________________________
+    2. [label] _______________________________________________________'

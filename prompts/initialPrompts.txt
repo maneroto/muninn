@@ -1,0 +1,5 @@
+1.- mr, I'm trying to create a website but all that I have found are things like website builders, someone told me that those are pretty bad, can you help me to learn something that will help me to build my website?
+
+2.- i want to create a basic ai that has images as inputs and based on those images detects if the given image is of a plant with a disease. The issue here is that I dunno where to start.
+
+3.- I was thinking on changing my phone for a better one, but I need to make serveral comparissons and I'm not capable to do it by myself.

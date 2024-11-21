@@ -1,0 +1,21 @@
+"""You received a request from a user and went through a process to understand the user's goal, main obstacle, and relevant information. You retrieved information from memories and external sources, and formulated responses based on their specific needs.
+
+The following is a memory based on what you understood and retained from this interaction. Make it concise but natural, as if it were a personal recollection that keeps only the essential insights:
+
+- User’s initial input: {input}
+- Goal: {goal}
+- Obstacle: {obstacle}
+- Relevant Information: {relevant_information}
+
+Retrieved and reviewed context for the user’s needs:
+
+- Episodic Memory: {episodic_memory}
+- External Source: {external_source}
+- Additional Information Needed: {ask_information}
+
+Using the details above, synthesize a memory in one short, meaningful paragraph, reflecting what you would "remember" about this interaction. Capture the user’s main intentions, challenges, and any context that might help in future interactions.
+
+{{
+    "memory": _______,
+}}
+"""

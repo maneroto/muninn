@@ -1,0 +1,20 @@
+Using the following unstructured input text, the main goal is for *you*, the model, to determine the most relevant information retrieval strategy based on content and context, and the user's identified obstacle. Identify what information you would look for in each approach without performing the search. Choose one or more of the following options, prioritizing recall-episodic-memory if possible:
+
+recall_episodic_memory: Describe any previous interactions with the user that could provide context on their familiarity with the topic, skills, background knowledge, or similar requests. Specify what kind of past exchanges you would look for that might help to address the current topic.
+external_source: If no relevant information would likely exist in memory, describe what specific external information you would look up to provide an accurate answer.
+ask_information: If additional input from the user is needed to clarify or complete the response, specify the exact information required.
+
+For each selected approach, specify exactly what information you would seek from that source. Provide your response in the JSON format below, with at least two retrieval decisions:
+
+{{
+    "input": "{input}"
+    "goal": {goal},
+    "obstacle": {obstacle},
+    "relevant_information": {relevant_information},
+
+    "retrieval_decision": {{
+        "recall_episodic_memory": [specific_information_sought or empty_square_brackets],
+        "external_source": [specific_information_sought or empty_square_brackets],
+        "ask_information": [specific_information_sought or empty_square_brackets],
+    }}
+}}

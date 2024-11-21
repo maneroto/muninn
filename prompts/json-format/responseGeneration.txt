@@ -1,0 +1,24 @@
+"""The user has the following goal and obstacle:
+
+- Goal: {goal}
+- Obstacle: {obstacle}
+- Relevant Information: {relevant_information}
+
+Here are the retrieved results based on the user's needs, along with the ongoing conversation you are having with him:
+
+- Episodic Memory: {episodic_memory}
+- External Source: {external_source}
+- Additional Information Needed: {ask_information}
+- Conversation context: {conversation_context}
+
+Please provide a helpful, user-friendly response that:
+1. Acknowledges the user's goal and obstacle.
+2. Uses the available episodic memory or external knowledge if relevant.
+3. Asks any follow-up questions if additional information is needed.
+4. Continues the ongoing conversation
+
+Respond clearly and concisely to help the user move forward toward their goal.
+
+{{
+    "response": _______,
+}}"""

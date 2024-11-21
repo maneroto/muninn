@@ -1,0 +1,18 @@
+'**These are some tasks that will be done, but to do so, i need you that per given task, you retrieve the most important keyphrases or points and provide one-word capitalized labels for them, specifically focusing on the core concepts, tools, or platforms mentioned in the task description. For example:
+
+Task: Reflect on past interactions or resources that could provide insights or useful advice on becoming a DM, if relevant information was previously discussed.
+
+Labels: [DM]
+
+Task: Inquire if Mane has any specific preferences or limitations regarding the campaign setting, the length of sessions, or the style of play they are interested in. This will help tailor the guidance more effectively.
+
+Labels: [Mane] [Preferences] [Campaing] [Setting] [Sessions] [Playstyle]
+**
+
+**Tasks:**
+    Review basic information on becoming a Dungeon Master (DM) in Dungeons & Dragons (DnD). This includes understanding the role of a DM, basic game mechanics, and how to prepare a campaign
+    Look up recent and reliable resources or guides on how to start as a Dungeon Master in DnD. This could include rulebooks, online tutorials, or forums.
+    
+**Labels:**
+    + _______________________________________________________
+    + _______________________________________________________'

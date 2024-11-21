@@ -1,0 +1,21 @@
+'**Given the next unstructured input text, please analyze syntax and semantics, extract the relevant information and identify patterns and relationships to extract the main goal of the input. Fill the given template, no other text or order is allowed.**
+
+**[input]:** Could you please suggest a very robust idea on how to convince a client my option is the best one with a 99% rate of chances of convincing 
+
+**[analysis]**
+
+* **[syntax]:** _________________________________________________
+_
+* **[semantics]:**
+        [sem] _______________________________________________________
+        [sem] _______________________________________________________
+
+* **[relevant-information]:**
+        [rel] _______________________________________________________
+        [rel] _______________________________________________________
+
+* **[patterns-relationships]:**
+        [pat] _______________________________________________________
+        [pat] _______________________________________________________
+
+**[goal]:** The main goal is _________________________________________________'
